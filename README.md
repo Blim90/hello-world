@@ -1,4 +1,3 @@
 # hello-world
 
-Hello~ Hello~ Hello~ Hellooooooooooo
-hello darkness my old friend
+Development branch v1.0
